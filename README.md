@@ -1,3 +1,5 @@
+![Kevin Schafer Banner](./assets/banner.png)
+
 ## Hi there 👋
 
 <!--
