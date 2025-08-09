@@ -5,7 +5,6 @@
 
 **Director** • AI-Aware Infrastructure Leader • Cloud Modernization • Observability • Compliance Automation  
 
-<!-- Skill Badges -->
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791?logo=postgresql&logoColor=white)
@@ -29,13 +28,29 @@ For hands-on projects in **FinOps automation**, **compliance-as-code**, **AI-pow
 
 ---
 
-## 🛠 Core Skills
-- **Cloud:** AWS (RDS, EC2, S3, SageMaker, Cost Explorer)  
-- **IaC:** Terraform, Jenkins, GitHub Actions  
-- **AI & Automation:** ChatGPT, GPT-4, LangChain  
-- **FinOps:** CloudZero, AWS Cost Explorer, tagging optimization  
-- **Observability:** Prometheus, Grafana, ELK Stack  
-- **Languages:** Python, YAML, HCL  
+## 🛠 Tech Stack
+
+**Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)  
+Amazon RDS • Amazon Aurora • EC2 • S3 • SageMaker • Cost Explorer
+
+**Infrastructure as Code (IaC)**  
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white)  
+Jenkins • GitHub Actions
+
+**AI & Automation**  
+ChatGPT • GPT-4 • LangChain
+
+**FinOps (Cloud Financial Management)**  
+CloudZero • AWS Cost Explorer • Tagging Optimization
+
+**Observability & Monitoring**  
+![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?logo=grafana&logoColor=white)  
+Prometheus • ELK Stack • Amazon CloudWatch
+
+**Programming & Scripting Languages**  
+![Python](https://img.shields.io/badge/Python-Language-3776AB?logo=python&logoColor=white)  
+YAML • HCL
 
 ---
 
@@ -46,6 +61,6 @@ For hands-on projects in **FinOps automation**, **compliance-as-code**, **AI-pow
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kevin-schafer-it<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/fca8fa30-c345-4ced-88fe-e38ff9bd3a03" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kevin-schafer-it<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/5d2370b0-1487-49b6-af71-4f723e6d9524" />
 )  
 📧 kevin.schafer9999\[at\]gmail.com
