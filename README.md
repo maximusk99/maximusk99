@@ -5,6 +5,8 @@
 
 **Director** • AI-Aware Infrastructure Leader • Cloud Modernization • Observability • Compliance Automation  
 
+I lead high-impact infrastructure and data transformations—migrating on-prem to AWS, optimizing costs, automating compliance, and enabling fast, reliable delivery.
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791?logo=postgresql&logoColor=white)
@@ -16,8 +18,10 @@
 ---
 
 ## 🚀 About Me
-I’m an **infrastructure leader and AI-aware strategist** with **30+ years in IT and cloud transformation**.  
-I specialize in **modernizing infrastructure for scalability, cost optimization, and compliance** — integrating AI into **observability**, **automation**, and **platform engineering**.
+- 30+ years across infrastructure, databases, and cloud transformation
+- Led hybrid-cloud strategies spanning AWS, Oracle, SQL Server, and PostgreSQL
+- Hands-on with modernizing, migrations, DR/BC, cost optimization, and compliance automation
+- M&A IT due diligence + post-merger integration experience
 
 ---
 
@@ -51,6 +55,11 @@ Prometheus • ELK Stack • Amazon CloudWatch
 **Programming & Scripting Languages**  
 ![Python](https://img.shields.io/badge/Python-Language-3776AB?logo=python&logoColor=white)  
 YAML • HCL
+
+---
+
+## 📜 Certifications
+- AWS Certified Solutions Architect – Practitioner
 
 ---
 
